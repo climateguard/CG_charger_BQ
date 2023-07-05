@@ -8,7 +8,7 @@
 - High compatibility with all devices  
 - Small dimensions (32x19x5 mm)  
 - Fast initialization (10-15 seconds after switching on)
-- The maximum battery charge current is 5A
+- Maximum battery charge current: 5A
 - clear 3.3V and 5V outputs
 
 Learn more about features of CG-Anem in [extras](https://github.com/climateguard/CG_charger_BQ/blob/main/extras)
