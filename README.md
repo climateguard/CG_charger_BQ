@@ -11,9 +11,9 @@
 - Maximum battery charge current: 5A
 - clear 3.3V and 5V outputs
 
-Learn more about features of CG-Anem in [extras](https://github.com/climateguard/CG_charger_BQ/blob/main/extras)
+Learn more about features of CG_Charger_BQ in [extras](https://github.com/climateguard/CG_charger_BQ/blob/main/extras)
 
-**You can buy CG-Anem at:**
+**You can buy CG_Charger_BQ at:**
 
 -  [Tindie](https://www.tindie.com/stores/climateguard/)  
 -  [Aliexpress](https://aliexpress.ru/store/all-wholesale-products/910985005.html)  
